@@ -25,7 +25,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tedcodes4&show_icons=true&theme=dark)  
+
+![tedcodes4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tedcodes4&theme=dracula&hide_border=true)
 
 ---
 
