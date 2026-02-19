@@ -5,7 +5,7 @@
 
 ### 🚀 What I Do  
 💻 ** I build Python backend applications and automation scripts/bots.  
-🤖 ** I am Passionate about anything tech related.  
+🤖 ** I am Passionate about anything tech.  
 
 ---
 <!--
