@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Ted.  
-💻 **  Backend Developer | Automation Enthusiast | Healthcare Professional**  
+💻 **Backend Developer | Automation Enthusiast | Healthcare Professional**  
 
 ---
 
 ### 🚀 What I Do  
-💻 ** I build Python backend applications and automation scripts/bots.  
-🤖 ** I am Passionate about anything tech.  
+💻 I build Python backend applications and automation scripts/bots.  
+🤖 I am Passionate about anything tech.  
 
 ---
 <!--
